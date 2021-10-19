@@ -2,7 +2,7 @@
 
 # Created by: Daria Bernice Calitis
 # Created on: Oct 2021
-# This program formats your mailing address
+# This program formats your address to a mailing address
 
 
 def address_formatter(
